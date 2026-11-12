@@ -11,7 +11,7 @@ Voxy 1.20.1 Fabric 版本自用备份仓库。
 
 **此版本是从他人提供的源代码编译而来，非官方发布。**
 
-- 原作者/来源：[m3t4f1v3-voxy](https://github.com/m3t4f1v3-voxy) (或其提供的源码)
+- 源代码来源：[m3t4f1v3-voxy](https://github.com/m3t4f1v3-voxy) 
 - 编译版本：v0.2.15-beta+1.20.1-fabric
 - 仅供个人学习/备份使用，请勿用于商业用途
 - 如原作者有异议，请联系删除
